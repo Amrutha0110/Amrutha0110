@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Amrutha Varshini Devadi</h1>
+<h3 align="center">CSE Student | Java & Python Developer | AI/ML Enthusiast</h3>
 
-<!--
-**Amrutha0110/Amrutha0110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- Final-year CSE student building Java + Python projects and ML models.
+- Interested in internships in Software Development and AI/ML.
+- Location: Rajahmundry, Andhra Pradesh, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+**Languages:** Java, Python  
+**ML:** HuggingFace, PyTorch, scikit-learn, Pandas, NumPy  
+**Cloud & Tools:** AWS basics, Oracle Cloud, Git, VS Code, IntelliJ
+
+---
+
+## 📌 Featured Projects
+- **Sentiment-Analysis-DistilBERT** — Fine-tuned DistilBERT for IMDb sentiment classification. *(link will be added)*  
+- **Library-Management-System-Java** — OOP-based console app with serialization and custom exceptions. *(link will be added)*  
+- **Secure-Password-Generator** — Tkinter GUI app to generate and copy secure passwords. *(link will be added)*
+
+---
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/amruthavarshini-devadi-68a337292  
+- Email: amruthavarshinidevadi@gmail.com
