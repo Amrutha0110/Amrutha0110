@@ -1,29 +1,55 @@
-<h1 align="center">Hi 👋, I'm Amrutha Varshini Devadi</h1>
-<h3 align="center">CSE Student | Java & Python Developer | AI/ML Enthusiast</h3>
+# 👋 Hi, I'm Devadi Amrutha Varshini
+
+🎓 Final-year B.Tech CSE | 💻 Java & Python Developer | 🤖 AI/ML Enthusiast  
+📍 Rajahmundry, Andhra Pradesh, India  
+
+I build projects in **Java, Python, Machine Learning, NLP, and Cloud (AWS & OCI)**.  
+I love writing clean code, solving problems, and exploring AI technologies.
 
 ---
 
-## 🚀 About Me
-- Final-year CSE student building Java + Python projects and ML models.
-- Interested in internships in Software Development and AI/ML.
-- Location: Rajahmundry, Andhra Pradesh, India
+## 🔧 Skills
+
+### **Programming**
+- Java, Python  
+
+### **AI / ML**
+- Pandas, NumPy, Scikit-Learn  
+- Transformers (HuggingFace)  
+- NLP, ML pipelines  
+
+### **Development Tools**
+- Git & GitHub  
+- VS Code  
+
+### **Cloud**
+- AWS (IAM, EC2, VPC, S3)  
+- Oracle Cloud (OCI AI Foundations)
 
 ---
 
-## 🛠️ Tech Stack
-**Languages:** Java, Python  
-**ML:** HuggingFace, PyTorch, scikit-learn, Pandas, NumPy  
-**Cloud & Tools:** AWS basics, Oracle Cloud, Git, VS Code, IntelliJ
+## 🚀 Projects
+
+### **🔹 Sentiment Analysis using DistilBERT**
+NLP model built using HuggingFace Transformers, fine-tuned for IMDb sentiment classification.
+
+### **🔹 Library Management System (Java)**
+Full OOP-based console project with issuing, returning, overdue calculation & serialization.
+
+### **🔹 Secure Password Generator (Python – Tkinter)**
+GUI application that generates strong passwords with customization options.
 
 ---
 
-## 📌 Featured Projects
-- **Sentiment-Analysis-DistilBERT** — Fine-tuned DistilBERT for IMDb sentiment classification. *(link will be added)*  
-- **Library-Management-System-Java** — OOP-based console app with serialization and custom exceptions. *(link will be added)*  
-- **Secure-Password-Generator** — Tkinter GUI app to generate and copy secure passwords. *(link will be added)*
+## 🎓 Certifications
+- OCI – AI Foundations Associate  
+- AWS Academy Cloud Foundations  
+- IBM Front-End Development Certificate  
+- Infosys Springboard – Java, HTML5, JavaScript, Node.js  
 
 ---
 
-## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/amruthavarshini-devadi-68a337292  
-- Email: amruthavarshinidevadi@gmail.com
+## 📬 Connect With Me  
+📧 **Email:** amruthavarshinidevadi@gmail.com  
+🔗 **LinkedIn:** linkedin.com/in/amruthavarshini-devadi-68a337292  
+🔗 **GitHub:** github.com/Amrutha0110  
